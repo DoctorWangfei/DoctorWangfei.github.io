@@ -18,18 +18,18 @@
 
 - R. Cheng, <strong>F. Wang</strong>,S. Li, X. Li, Y. Liu, Q. Xie, P. Xiao. Single-Ended Readout Depth-of-Interaction Measurements Based on Random Forest Algorithm. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 7, no. 2, pp. 105-112, Feb. 2023, [[Paper]]( doi: 10.1109/TRPMS.2022.3218401) 
 
-- R. Cheng, M. Sun, <strong>F. Wang</strong>, D. Mu, Y. Liu, Q. Xie, B. Qiu, X. Chen, P. Xiao. Dual-Ended Readout PET Detector Based on Multivoltage Threshold Sampling Combined With Convolutional Neural Network for Energy Calculation. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 7, pp. 709-717, Sept. 2024, [[Paper]]( doi: 10.1109/TRPMS.2024.3393235) 
+- R. Cheng, M. Sun, <strong>F. Wang</strong>, D. Mu, Y. Liu, Q. Xie, B. Qiu, X. Chen, P. Xiao. Dual-Ended Readout PET Detector Based on Multivoltage Threshold Sampling Combined With Convolutional Neural Network for Energy Calculation. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 7, pp. 709-717, Sept. 2024, [[Paper]](doi: 10.1109/TRPMS.2024.3393235) 
 
-- Y. Ling, A. Qiu, Lin, Wan, <strong>F. Wang</strong>, K. Zhu, Y. Zhang, Q. Xie. A Novel Peak Picking Multi-Voltage Threshold Digitizer for Pulse Sampling. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 3, pp. 248-256, March 2024, [[Paper]]( doi: 10.1109/TRPMS.2024.3359241)
+- Y. Ling, A. Qiu, Lin, Wan, <strong>F. Wang</strong>, K. Zhu, Y. Zhang, Q. Xie. A Novel Peak Picking Multi-Voltage Threshold Digitizer for Pulse Sampling. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 3, pp. 248-256, March 2024, [[Paper]](doi: 10.1109/TRPMS.2024.3359241)
 
-- Z. Weng, <strong>F. Wang</strong>, C. Cai and Q. Xie. Resource-Efficient and Truly FPGA-Only Multiple Voltage Threshold Sampling Strategy. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. [[Paper]]( doi: 10.1109/TRPMS.2025.3628222)
+- Z. Weng, <strong>F. Wang</strong>, C. Cai and Q. Xie. Resource-Efficient and Truly FPGA-Only Multiple Voltage Threshold Sampling Strategy. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. [[Paper]](doi: 10.1109/TRPMS.2025.3628222)
 
 #### Drafting
 
-- <strong>F, Wang</strong>, C. Cai. A Flexible Multi-Channel Ramp ADC Using Cost-effective Pseudo-Ramp Generator with Commercial Devices. <strong>IEEE Transactions on Industrial Electronics</strong> //[[Code]](https://github.com/senli1073/LaNCor)
+- <strong>F, Wang</strong>, C. Cai. A Flexible Multi-Channel Ramp ADC Using Cost-effective Pseudo-Ramp Generator with Commercial Devices. <strong>IEEE Transactions on Industrial Electronics</strong>.
 
-- <strong>F, Wang</strong>, C. Cai. A Low-cost Single-pulse Energy Monitoring System for Femtosecond Lasers Based on LCS. <strong>IEEE Transactions on Instrumentation and Measurement</strong> //[[Code]](https://github.com/senli1073/LaNCor)
+- <strong>F, Wang</strong>, C. Cai. A Low-cost Single-pulse Energy Monitoring System for Femtosecond Lasers Based on LCS. <strong>IEEE Transactions on Instrumentation and Measurement</strong>.
 
-- <strong>F, Wang</strong>, C. Cai. A High-density 64-channel Signal Sampling System for Simultaneous Measurement of Pulse Energy and Timing Information. <strong>IEEE Transactions on Instrumentation and Measurement</strong> //[[Code]](https://github.com/senli1073/LaNCor)
+- <strong>F, Wang</strong>, C. Cai. A High-density 64-channel Signal Sampling System for Simultaneous Measurement of Pulse Energy and Timing Information. <strong>IEEE Transactions on Instrumentation and Measurement</strong>.
 
 
