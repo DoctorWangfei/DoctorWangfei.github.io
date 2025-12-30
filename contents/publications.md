@@ -4,7 +4,7 @@
 
 #### Published
 
-- <strong>C. Cai, F. Wang</strong>, Q, Xie*, J. Luo. Peak Detector With an FPGA-Only Solution for Multichannel Ultrafast Signals. <strong> IEEE Transactions on Industrial Electronics </strong>. vol. 71, no. 8, pp. 9923-9931, Aug. 2024 , [[Paper]](doi: 10.1109/TIE.2023.3319724) %[[Code]](https://github.com/senli1073/SeisT)
+- <strong>C. Cai, F. Wang</strong>, Q, Xie*, J. Luo. Peak Detector With an FPGA-Only Solution for Multichannel Ultrafast Signals. <strong> IEEE Transactions on Industrial Electronics </strong>. vol. 71, no. 8, pp. 9923-9931, Aug. 2024 , [[Paper]](doi: 10.1109/TIE.2023.3319724)
 
 - <strong> C. Cai, F. Wang</strong>, Q, Xie*, X. Chen, Z. Li, B. Qiu and Q. Xie. High Count Rate Peak-Based PET Detector. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences</strong>. vol. 7, no. 6, pp. 597-606, July 2023, [[Paper]](doi: 10.1109/TRPMS.2023.3262276)
 
@@ -16,9 +16,9 @@
 
 - <strong>F. Wang</strong>, J. Zhou, Z. Weng, C. Cai and Q. Xie. A Post-Processing Algorithm to Correct Time Walk and Boost CTR to 100 ps Level. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 9, no. 1, pp. 1-10, Jan. 2025, [[Paper]]( doi: 10.1109/TRPMS.2024.3437178) 
 
-- <strong>F. Wang</strong>, C. -M. Kao, X. Zhang, L. Liu, Y. Hua, H. Kim, W. ¨CS. Choong, Q, Xie*. DOI- and TOF-Capable PET Array Detector Using Double-Ended Light Readout and Stripline-Based Row and Column Electronic Readout. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 3, pp. 269-276, March 2024, [[Paper]]( doi: 10.1109/TRPMS.2024.3360942) 
+- <strong>F. Wang</strong>, C. -M. Kao, X. Zhang, L. Liu, Y. Hua, H. Kim, W.  CS. Choong, Q, Xie*. DOI- and TOF-Capable PET Array Detector Using Double-Ended Light Readout and Stripline-Based Row and Column Electronic Readout. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 3, pp. 269-276, March 2024, [[Paper]]( doi: 10.1109/TRPMS.2024.3360942) 
 
-- <strong>Íô·É</strong>, ÖÜ¼Îö©, ²Ì³¬. µÍ×ÊÔ´ÏûºÄÐÍ¶àµçÑ¹ãÐÖµ²ÉÑùµÄÄÜÁ¿±íÕ÷·½·¨. <strong> Ô­×ÓÄÜ¿ÆÑ§Óë¼¼Êõ </strong>. 2024, 58(11): 2393-2401, [[Paper]]( doi: 10.7538/yzk.2023.youxian.0878) 
+- <strong>   </strong>,  Ü¼   ,  Ì³ .     Ô´     Í¶  Ñ¹  Öµ                  . <strong> Ô­   Ü¿ Ñ§ ë¼¼   </strong>. 2024, 58(11): 2393-2401, [[Paper]]( doi: 10.7538/yzk.2023.youxian.0878) 
 
 - R. Cheng, <strong>F. Wang</strong>,S. Li, X. Li, Y. Liu, Q. Xie, P. Xiao. Single-Ended Readout Depth-of-Interaction Measurements Based on Random Forest Algorithm. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 7, no. 2, pp. 105-112, Feb. 2023, [[Paper]]( doi: 10.1109/TRPMS.2022.3218401) 
 
