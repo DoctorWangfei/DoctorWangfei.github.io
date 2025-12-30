@@ -5,7 +5,6 @@
 * Innovation Scholarship of Huazhong University of Science and Technology, 2024.
 * Third-class Academic Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2024.
 * Third-class Academic Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2023.
-* Third-class Academic Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2023.
 * First-class Academic Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2022.
 
 
