@@ -1,12 +1,12 @@
+* National Scholarship for Doctoral Students, 2025.
+* Innovation Scholarship of Huazhong University of Science and Technology, 2025.
+* Outstanding Graduate Student of Huazhong University of Science and Technology, 2025.
+* Second-class Academic Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2025.
+* Innovation Scholarship of Huazhong University of Science and Technology, 2024.
+* Third-class Academic Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2024.
+* Third-class Academic Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2023.
+* Third-class Academic Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2023.
+* First-class Academic Scholarship for Doctoral Students of Huazhong University of Science and Technology, 2022.
 
-- Outstanding Graduate Award (CUMT), 2025.
 
-- National Scholarship for Graduate Students (Ministry of Education, China), 2024.
 
-- First-Prize Graduate Academic Scholarship (CUMT), 2023 & 2024.
-
-- Outstanding Undergraduate Thesis Award (Jiangsu, China), 2022.
-
-- First-Prize Corporate Scholarship (CUMT), 2020.
-
-- First-Prize Undergraduate Academic Scholarship (CUMT), 2019.

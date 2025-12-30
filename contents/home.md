@@ -1,7 +1,5 @@
 
 
-%[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
-
 He is currently a doctoral student at Huazhong University of Science and Technology.
 #### Contact
 
@@ -13,5 +11,4 @@ M.E., Optical Engineering, Huazhong University of Science and Technology, 2019â€
 B.E., Optoelectronic Information Science and Engineering, Northwestern Polytechnical University, 2015â€”2019.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
-
+High performance sampling system hardware; Ultra-fast signal sampling and processing; FPGA; TDC

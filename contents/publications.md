@@ -1,16 +1,31 @@
 #### Submitted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- <strong>F, Wang</strong>, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
 
 #### Published
 
-- X. Yang, <strong>S. Li</strong>, A. Cao*, C. Wang*, Y. Liu, X. Bai, and Q. Niu (2024). Deep Transfer Learning for P-wave Arrival Identification and Automatic Seismic Source Location in Underground Mines. <strong>International Journal of Rock Mechanics and Mining Sciences</strong>. [[Paper]](https://doi.org/10.1016/j.ijrmms.2024.105888)
+- <strong>C. Cai, F. Wang</strong>, Q, Xie*, J. Luo. Peak Detector With an FPGA-Only Solution for Multichannel Ultrafast Signals. <strong> IEEE Transactions on Industrial Electronics </strong>. vol. 71, no. 8, pp. 9923-9931, Aug. 2024 , [[Paper]](doi: 10.1109/TIE.2023.3319724) %[[Code]](https://github.com/senli1073/SeisT)
 
-- <strong>S. Li</strong>, X. Yang*, A. Cao*, C. Wang, Y. Liu, Y. Liu, and Q. Niu (2024). SeisT: A Foundational Deep-Learning Model for Earthquake Monitoring Tasks. <strong>IEEE Transactions on Geoscience and Remote Sensing</strong>. [[Paper]](https://doi.org/10.1109/TGRS.2024.3371503) [[Code]](https://github.com/senli1073/SeisT)
+- <strong> C. Cai, F. Wang</strong>, Q, Xie*, X. Chen, Z. Li, B. Qiu and Q. Xie. High Count Rate Peak-Based PET Detector. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences</strong>. vol. 7, no. 6, pp. 597-606, July 2023, [[Paper]](doi: 10.1109/TRPMS.2023.3262276)
 
-- A. Cao, X. Yang, C. Wang*, <strong>S. Li</strong>, Y. Liu, L. Dou, and Q. Niu (2023). High-Precision Phase Picking and Automatic Source Locating Method for Seismicity in Mines Based on Deep Transfer Learning. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2023.0095)
+- <strong>F. Wang</strong>, Z. Weng, C. Cai, M. Hu, Q. Xie and J. Luo. TwinPop: A Resource-Efficient and Highly Linear FPGA-Based Time-to-Digital Converter. <strong> IEEE Transactions on Instrumentation and Measurement </strong>. vol. 73, pp. 1-9, 2024, Art no. 2003909, [[Paper]]( doi: 10.1109/TIM.2024.3398090) 
 
-- A. Cao, Y. Liu, X. Yang*, <strong>S. Li</strong>, C. Wang, X. Bai, and Y. Liu (2022). Physical Index and Data Fusion-Driven Method for Coal Burst Prediction in Time Sequence. <strong>Journal of China Coal Society</strong>. [[Paper]](https://doi.org/10.13225/j.cnki.jccs.2022.0680)
+- <strong>F. Wang</strong>, Z. Weng, C. Cai, M. Hu and Q. Xie. ParCha: A New Resource-efficient TDC with Salient Linearity Performance using Parallel Short Chains. <strong> IEEE Transactions on Instrumentation and Measurement </strong>. vol. 73, pp. 1-12, 2024, Art no. 2006912, [[Paper]]( doi: 10.1109/TIM.2024.3472861) 
 
-- X. Yang, X. Yu, C. Zhang, <strong>S. Li</strong>, and Q. Niu (2021). MineGPS: Battery-Free Localization Base Station for Coal Mine Environment. <strong>IEEE Communications Letters</strong>. [[Paper]](https://doi.org/10.1109/LCOMM.2021.3081593)
+- J. Zhou, <strong>F. Wang</strong>, C. Cai and Q. Xie. A Post-Processing Algorithm to Correct Time Walk and Boost CTR to 100 ps Level. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 9, no. 8, pp. 1002-1014, Nov. 2025, [[Paper]]( doi: 10.1109/TRPMS.2025.3579351) 
+
+- <strong>F. Wang</strong>, J. Zhou, Z. Weng, C. Cai and Q. Xie. A Post-Processing Algorithm to Correct Time Walk and Boost CTR to 100 ps Level. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 9, no. 1, pp. 1-10, Jan. 2025, [[Paper]]( doi: 10.1109/TRPMS.2024.3437178) 
+
+- <strong>F. Wang</strong>, C. -M. Kao, X. Zhang, L. Liu, Y. Hua, H. Kim, W. –S. Choong, Q, Xie*. DOI- and TOF-Capable PET Array Detector Using Double-Ended Light Readout and Stripline-Based Row and Column Electronic Readout. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 3, pp. 269-276, March 2024, [[Paper]]( doi: 10.1109/TRPMS.2024.3360942) 
+
+- <strong>汪飞</strong>, 周嘉雯, 蔡超. 低资源消耗型多电压阈值采样的能量表征方法. <strong> 原子能科学与技术 </strong>. 2024, 58(11): 2393-2401, [[Paper]]( doi: 10.7538/yzk.2023.youxian.0878) 
+
+- R. Cheng, <strong>F. Wang</strong>,S. Li, X. Li, Y. Liu, Q. Xie, P. Xiao. Single-Ended Readout Depth-of-Interaction Measurements Based on Random Forest Algorithm. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 7, no. 2, pp. 105-112, Feb. 2023, [[Paper]]( doi: 10.1109/TRPMS.2022.3218401) 
+
+- R. Cheng, M. Sun, <strong>F. Wang</strong>, D. Mu, Y. Liu, Q. Xie, B. Qiu, X. Chen, P. Xiao. Dual-Ended Readout PET Detector Based on Multivoltage Threshold Sampling Combined With Convolutional Neural Network for Energy Calculation. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 7, pp. 709-717, Sept. 2024, [[Paper]]( doi: 10.1109/TRPMS.2024.3393235) 
+
+- Y. Ling, A. Qiu, Lin, Wan, <strong>F. Wang</strong>, K. Zhu, Y. Zhang, Q. Xie. A Novel Peak Picking Multi-Voltage Threshold Digitizer for Pulse Sampling. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 3, pp. 248-256, March 2024, [[Paper]]( doi: 10.1109/TRPMS.2024.3359241) 
+
+- Z. Weng, <strong>F. Wang</strong>, C. Cai and Q. Xie. Resource-Efficient and Truly FPGA-Only Multiple Voltage Threshold Sampling Strategy. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. [[Paper]]( doi: 10.1109/TRPMS.2025.3628222) 
+
 
