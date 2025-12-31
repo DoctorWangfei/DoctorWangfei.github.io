@@ -10,7 +10,7 @@
 
 - J. Zhou, <strong>F. Wang</strong>, C. Cai and Q. Xie. A Post-Processing Algorithm to Correct Time Walk and Boost CTR to 100 ps Level. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 9, no. 8, pp. 1002-1014, Nov. 2025, [[Paper]]( doi: 10.1109/TRPMS.2025.3579351) 
 
-- <strong>F. Wang</strong>, J. Zhou, Z. Weng, C. Cai and Q. Xie. A Post-Processing Algorithm to Correct Time Walk and Boost CTR to 100 ps Level. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 9, no. 1, pp. 1-10, Jan. 2025, [[Paper]]( doi: 10.1109/TRPMS.2024.3437178) 
+- <strong>F. Wang</strong>, J. Zhou, Z. Weng, C. Cai and Q. Xie. 130+ ps Coincident Time Resolution with 20 mm Crystal Length Using 28 nm Xilinx FPGA </strong>. vol. 9, no. 1, pp. 1-10, Jan. 2025, [[Paper]]( doi: 10.1109/TRPMS.2024.3437178) 
 
 - <strong>F. Wang</strong>, C. -M. Kao, X. Zhang, L. Liu, Y. Hua, H. Kim, W.  CS. Choong, Q, Xie*. DOI- and TOF-Capable PET Array Detector Using Double-Ended Light Readout and Stripline-Based Row and Column Electronic Readout. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences </strong>. vol. 8, no. 3, pp. 269-276, March 2024, [[Paper]]( doi: 10.1109/TRPMS.2024.3360942) 
 
