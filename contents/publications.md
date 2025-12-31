@@ -1,6 +1,6 @@
 #### Published
 
-- <strong>C. Cai, F. Wang</strong>, Q, Xie*, J. Luo. Peak Detector With an FPGA-Only Solution for Multichannel Ultrafast Signals. <strong> IEEE Transactions on Industrial Electronics </strong>. vol. 71, no. 8, pp. 9923-9931, Aug. 2024 , [[Paper]](doi: 10.1109/TIE.2023.3319724)
+- <strong>C. Cai, F. Wang</strong>, Q, Xie*, J. Luo. Peak Detector With an FPGA-Only Solution for Multichannel Ultrafast Signals. <strong> IEEE Transactions on Industrial Electronics </strong>. vol. 71, no. 8, pp. 9923-9931, Aug. 2024 , [[Paper]](https://ieeexplore.ieee.org/document/10275318)
 
 - <strong> C. Cai, F. Wang</strong>, Q, Xie*, X. Chen, Z. Li, B. Qiu and Q. Xie. High Count Rate Peak-Based PET Detector. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences</strong>. vol. 7, no. 6, pp. 597-606, July 2023, [[Paper]](doi: 10.1109/TRPMS.2023.3262276)
 
