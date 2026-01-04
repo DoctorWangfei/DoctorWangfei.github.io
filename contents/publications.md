@@ -2,9 +2,9 @@
 
 - <strong>C. Cai, F. Wang</strong>, Q, Xie*, J. Luo. Peak Detector With an FPGA-Only Solution for Multichannel Ultrafast Signals. <strong> IEEE Transactions on Industrial Electronics </strong>. vol. 71, no. 8, pp. 9923-9931, Aug. 2024 , [[Paper]](https://ieeexplore.ieee.org/document/10275318)
 
-- <strong> C. Cai, F. Wang</strong>, Q, Xie*, X. Chen, Z. Li, B. Qiu and Q. Xie. High Count Rate Peak-Based PET Detector. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences</strong>. vol. 7, no. 6, pp. 597-606, July 2023, [[Paper]](doi: 10.1109/TRPMS.2023.3262276)
+- <strong> C. Cai, F. Wang</strong>, Q, Xie*, X. Chen, Z. Li, B. Qiu and Q. Xie. High Count Rate Peak-Based PET Detector. <strong> IEEE Transactions on Radiation and Plasma Medical Sciences</strong>. vol. 7, no. 6, pp. 597-606, July 2023, [[Paper]](https://ieeexplore.ieee.org/document/10091692)
 
-- <strong>F. Wang</strong>, Z. Weng, C. Cai, M. Hu, Q. Xie and J. Luo. TwinPop: A Resource-Efficient and Highly Linear FPGA-Based Time-to-Digital Converter. <strong> IEEE Transactions on Instrumentation and Measurement </strong>. vol. 73, pp. 1-9, 2024, Art no. 2003909, [[Paper]]( doi: 10.1109/TIM.2024.3398090) 
+- <strong>F. Wang</strong>, Z. Weng, C. Cai, M. Hu, Q. Xie and J. Luo. TwinPop: A Resource-Efficient and Highly Linear FPGA-Based Time-to-Digital Converter. <strong> IEEE Transactions on Instrumentation and Measurement </strong>. vol. 73, pp. 1-9, 2024, Art no. 2003909, [[Paper]][( doi: 10.1109/TIM.2024.3398090) ](https://ieeexplore.ieee.org/document/10522934)
 
 - <strong>F. Wang</strong>, Z. Weng, C. Cai, M. Hu and Q. Xie. ParCha: A New Resource-efficient TDC with Salient Linearity Performance using Parallel Short Chains. <strong> IEEE Transactions on Instrumentation and Measurement </strong>. vol. 73, pp. 1-12, 2024, Art no. 2006912, [[Paper]]( doi: 10.1109/TIM.2024.3472861) 
 
